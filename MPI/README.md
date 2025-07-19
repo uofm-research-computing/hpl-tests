@@ -51,8 +51,13 @@ This file defines the parameters for the HPL benchmark. Increasing "Ns" (problem
 
 # Citations and other reading material
 [HPL benchmark](https://netlib.org/benchmark/hpl/)
+
 [OpenBLAS](https://github.com/OpenMathLib/OpenBLAS/)
+
 [OpenMPI](https://www.open-mpi.org/)
+
 [Intel MKL library](https://www.intel.com/content/www/us/en/developer/tools/oneapi/onemkl.html)
+
 [Intel MPI library](https://www.intel.com/content/www/us/en/developer/tools/oneapi/mpi-library.html)
+
 [HPL Tuning](https://www.netlib.org/benchmark/hpl/tuning.html)
