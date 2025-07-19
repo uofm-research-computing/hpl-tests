@@ -24,7 +24,11 @@ This file defines the parameters for the HPL benchmark. Increasing "Ns" (problem
 
 # Citations and other reading material
 [NGC benchmarks container](https://catalog.ngc.nvidia.com/orgs/nvidia/containers/hpc-benchmarks)
+
 [SLURM MPI user guide](https://slurm.schedmd.com/mpi_guide.html)
+
 [Forum result showing the same V100 error](https://forums.developer.nvidia.com/t/run-hpc-benchmark23-10-hpl-with-v100gpu/273967)
+
 [Wikipedia list of Nvidia GPUs](https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units#Data_center_GPUs)
+
 [HPL Tuning](https://www.netlib.org/benchmark/hpl/tuning.html)
