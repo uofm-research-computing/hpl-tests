@@ -24,5 +24,7 @@ Most neural networks use a small subset of operations, primarily matrix multipli
 
 # Citations and other reading material
 [HPL benchmark](https://netlib.org/benchmark/hpl/)
+
 [Tensor Cores](https://developer.nvidia.com/blog/programming-tensor-cores-cuda-9/)
+
 [Double vs Single Precision](https://insidehpc.com/2021/07/double-precision-cpus-vs-single-precision-gpus-hpl-vs-hpl-ai-hpc-benchmarks-traditional-vs-ai-supercomputers/)
